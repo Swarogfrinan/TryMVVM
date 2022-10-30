@@ -72,7 +72,6 @@
 			children = (
 				4356870E290EDE250075EC70 /* TableViewController.swift */,
 				43568710290EDE350075EC70 /* ViewController.swift */,
-				43568719290EE1FF0075EC70 /* Coordinator */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -118,6 +117,7 @@
 				4356871C290EE2100075EC70 /* Model */,
 				43568712290EDE4C0075EC70 /* ViewModel */,
 				43568718290EDE670075EC70 /* Controllers */,
+				43568719290EE1FF0075EC70 /* Coordinator */,
 				43568717290EDE580075EC70 /* Resourses */,
 				43DD975A290EBC6C0099A415 /* Assets.xcassets */,
 				43DD975F290EBC6C0099A415 /* Info.plist */,
